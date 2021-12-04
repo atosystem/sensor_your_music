@@ -5,10 +5,14 @@
 <a href="https://github.com/atosystem/sensor_your_music/pulls" target="_blank"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/atosystem/sensor_your_music"></a>
 </p>
 
-<div align="center">Check out the blog page!  <a href="https://atosystem.github.io/blogs/sensor-puredata">Blog Page</a></div>
+<div align="center">Check out the blog page!  <a href="https://atosystem.github.io/blogs/sensor-puredata">Blog Page</a>
 <br/>
+<img src="https://i.imgur.com/59FqCnN.png" />
 
-![](https://i.imgur.com/59FqCnN.png)
+</div>
+
+
+
 
 
 
