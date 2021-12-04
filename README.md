@@ -1,11 +1,11 @@
 # Sensor your music
-<p style="text-align: center;">
+<p align="center">
 <a href="https://github.com/atosystem/sensor_your_music/"><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/atosystem/sensor_your_music/main"></a>
 <a href="https://github.com/atosystem/sensor_your_music/issues" target="_blank"><img alt="GitHub closed issues" src="https://img.shields.io/github/issues/atosystem/sensor_your_music"></a>
 <a href="https://github.com/atosystem/sensor_your_music/pulls" target="_blank"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/atosystem/sensor_your_music"></a>
 </p>
 
-<div style="text-align: center;">Check out the blog page!  <a href="https://atosystem.github.io/blogs/sensor-puredata">Blog Page</a></div>
+<div align="center">Check out the blog page!  <a href="https://atosystem.github.io/blogs/sensor-puredata">Blog Page</a></div>
 <br/>
 
 ![](https://i.imgur.com/59FqCnN.png)
