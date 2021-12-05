@@ -5,7 +5,7 @@
 <a href="https://github.com/atosystem/sensor_your_music/pulls" target="_blank"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/atosystem/sensor_your_music"></a>
 </p>
 
-<div align="center">Check out the blog page!  <a href="https://atosystem.github.io/blogs/sensor-puredata">Blog Page</a>
+<div align="center"><h2>Check out the <a href="https://atosystem.github.io/blogs/sensor-puredata">Blog Page</a>!</h2>
 <br/>
 <img src="https://i.imgur.com/59FqCnN.png" />
 
