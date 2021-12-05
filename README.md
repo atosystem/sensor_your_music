@@ -97,7 +97,7 @@
 
 ## Notice
 
-*  For multiple devices, please open multiple chrome tabs on your laptop. One tabs for one moblie device and each tabs uses different UDP Port which corressponds to the object in puredata \[netreceive -u <udp port\>\]
+*  For multiple devices, please open multiple chrome tabs on your laptop. One tab for one moblie device and each tab uses different UDP Port which corressponds to the object in puredata \[netreceive -u <udp port\>\]
 
 ## Author
 
